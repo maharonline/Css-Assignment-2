@@ -1,0 +1,53 @@
+
+@media screen and (max-width:991px){
+    .container1 img{
+        width: 9em;
+        margin: 30px 150px 0 0;
+    }
+    .one{
+        margin: 60px 0 0 100px;
+        width: 35%;
+    }
+    .one p{
+        margin-top: 5px;
+        font-size: 18px;
+        line-height: 22px;
+        margin-bottom: 8px;
+        
+    }
+    .one a{
+        padding: 4px 10px;
+    }
+    .container2{
+        margin-top: -40px;
+        padding-top:100px ;
+        height: 300px;
+        
+        
+    }
+    .container2 p{
+
+    font-size: .6rem;
+    line-height: 10px;
+    }
+    .container2 h3{
+        font-size: 1rem;
+    }
+    .container2 div{
+        margin-right: 50px;
+    }
+
+    .center{
+        height: 400px;
+        padding-top: 100px;
+    }
+    .center p{
+        font-size: .8rem;
+        margin-bottom: 10px;
+    }
+    .center a{
+        padding: 5px 15px;
+        font-size: small;
+        margin-bottom: 10px;
+    }
+}
